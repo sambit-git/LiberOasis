@@ -1,0 +1,386 @@
+[
+    {
+        "model" : "books.Book",
+        "pk"    : 1,
+        "fields":{ 
+            "title"           : "The Alchemist",
+            "description"     : "A nice self help personal development Book",
+            "price"           : 499,
+            "authors"         : [1],
+            "issue_duration"  : 30,
+            "publish_year"    : 2004
+        }
+    },
+    {
+        "model" : "books.Book",
+        "pk"    : 2,
+        "fields":{ 
+            "title"           : "Atomic Habits",
+            "description"     : "A nice self help personal development Book",
+            "price"           : 499,
+            "authors"         : [2],
+            "issue_duration"  : 30,
+            "publish_year"    : 2004
+        }
+    },
+    {
+        "model" : "books.Book",
+        "pk"    : 3,
+        "fields":{ 
+            "title"           : "Thinking Fast And Slow",
+            "description"     : "A nice self help personal development Book",
+            "price"           : 499,
+            "authors"         : [3],
+            "issue_duration"  : 30,
+            "publish_year"    : 2004
+        }
+    },
+    {
+        "model" : "books.Book",
+        "pk"    : 4,
+        "fields":{ 
+            "title"           : "The Four Agreements",
+            "description"     : "A nice self help personal development Book",
+            "price"           : 499,
+            "authors"         : [4],
+            "issue_duration"  : 30,
+            "publish_year"    : 2004
+        }
+    },
+    {
+        "model" : "books.Book",
+        "pk"    : 5,
+        "fields":{ 
+            "title"           : "The 7 Habits Of Highly Effective People",
+            "description"     : "A nice self help personal development Book",
+            "price"           : 499,
+            "authors"         : [5],
+            "issue_duration"  : 30,
+            "publish_year"    : 2004
+        }
+    },
+    {
+        "model" : "books.Book",
+        "pk"    : 6,
+        "fields":{ 
+            "title"           : "Best Self",
+            "description"     : "A nice self help personal development Book",
+            "price"           : 499,
+            "authors"         : [6],
+            "issue_duration"  : 30,
+            "publish_year"    : 2004
+        }
+    },
+    {
+        "model" : "books.Book",
+        "pk"    : 7,
+        "fields":{ 
+            "title"           : "Girl, Wash Your Face",
+            "description"     : "A nice self help personal development Book",
+            "price"           : 499,
+            "authors"         : [8],
+            "issue_duration"  : 30,
+            "publish_year"    : 2004
+        }
+    },
+    {
+        "model" : "books.Book",
+        "pk"    : 8,
+        "fields":{ 
+            "title"           : "You Are A Badass",
+            "description"     : "A nice self help personal development Book",
+            "price"           : 499,
+            "authors"         : [9],
+            "issue_duration"  : 30,
+            "publish_year"    : 2004
+        }
+    },
+    {
+        "model" : "books.Book",
+        "pk"    : 9,
+        "fields":{ 
+            "title"           : "12 Rules For Life",
+            "description"     : "A nice self help personal development Book",
+            "price"           : 499,
+            "authors"         : [10],
+            "issue_duration"  : 30,
+            "publish_year"    : 2004
+        }
+    },
+    {
+        "model" : "books.Book",
+        "pk"    : 10,
+        "fields":{ 
+            "title"           : "The 48 Laws Of Power",
+            "description"     : "A nice self help personal development Book",
+            "price"           : 499,
+            "authors"         : [11],
+            "issue_duration"  : 30,
+            "publish_year"    : 2004
+        }
+    },
+    {
+        "model" : "books.Book",
+        "pk"    : 11,
+        "fields":{ 
+            "title"           : "The Courage To Be Disliked",
+            "description"     : "A nice self help personal development Book",
+            "price"           : 499,
+            "authors"         : [12, 13],
+            "issue_duration"  : 30,
+            "publish_year"    : 2004
+        }
+    },
+    {
+        "model" : "books.Book",
+        "pk"    : 12,
+        "fields":{ 
+            "title"           : "Man’s Search For Meaning",
+            "description"     : "A nice self help personal development Book",
+            "price"           : 499,
+            "authors"         : [14],
+            "issue_duration"  : 30,
+            "publish_year"    : 2004
+        }
+    },
+    {
+        "model" : "books.Book",
+        "pk"    : 13,
+        "fields":{ 
+            "title"           : "How To Stop Worrying And Start Living",
+            "description"     : "A nice self help personal development Book",
+            "price"           : 499,
+            "authors"         : [15],
+            "issue_duration"  : 30,
+            "publish_year"    : 2004
+        }
+    },
+    {
+        "model" : "books.Book",
+        "pk"    : 14,
+        "fields":{ 
+            "title"           : "Daring Greatly",
+            "description"     : "A nice self help personal development Book",
+            "price"           : 499,
+            "authors"         : [16],
+            "issue_duration"  : 30,
+            "publish_year"    : 2004
+        }
+    },
+    {
+        "model" : "books.Book",
+        "pk"    : 15,
+        "fields":{ 
+            "title"           : "Big Magic",
+            "description"     : "A nice self help personal development Book",
+            "price"           : 499,
+            "authors"         : [17],
+            "issue_duration"  : 30,
+            "publish_year"    : 2004
+        }
+    },
+    {
+        "model" : "books.Book",
+        "pk"    : 16,
+        "fields":{ 
+            "title"           : "Quiet",
+            "description"     : "A nice self help personal development Book",
+            "price"           : 499,
+            "authors"         : [18],
+            "issue_duration"  : 30,
+            "publish_year"    : 2004
+        }
+    },
+    {
+        "model" : "books.Book",
+        "pk"    : 17,
+        "fields":{ 
+            "title"           : "The Magic Of Thinking Big",
+            "description"     : "A nice self help personal development Book",
+            "price"           : 499,
+            "authors"         : [19],
+            "issue_duration"  : 30,
+            "publish_year"    : 2004
+        }
+    },
+    {
+        "model" : "books.Book",
+        "pk"    : 18,
+        "fields":{ 
+            "title"           : "How To Win Friends And Influence People",
+            "description"     : "A nice self help personal development Book",
+            "price"           : 499,
+            "authors"         : [15],
+            "issue_duration"  : 30,
+            "publish_year"    : 2004
+        }
+    },
+    {
+        "model" : "books.Book",
+        "pk"    : 19,
+        "fields":{ 
+            "title"           : "The 5 Love Languages",
+            "description"     : "A nice self help personal development Book",
+            "price"           : 499,
+            "authors"         : [20],
+            "issue_duration"  : 30,
+            "publish_year"    : 2004
+        }
+    },
+    {
+        "model" : "books.Book",
+        "pk"    : 20,
+        "fields":{ 
+            "title"           : "Deep Work",
+            "description"     : "A nice self help personal development Book",
+            "price"           : 499,
+            "authors"         : [21],
+            "issue_duration"  : 30,
+            "publish_year"    : 2004
+        }
+    },
+    {
+        "model" : "books.Book",
+        "pk"    : 21,
+        "fields":{ 
+            "title"           : "Getting Things Done",
+            "description"     : "A nice self help personal development Book",
+            "price"           : 499,
+            "authors"         : [22],
+            "issue_duration"  : 30,
+            "publish_year"    : 2004
+        }
+    },
+    {
+        "model" : "books.Book",
+        "pk"    : 22,
+        "fields":{ 
+            "title"           : "Who Moved My Cheese",
+            "description"     : "A nice self help personal development Book",
+            "price"           : 499,
+            "authors"         : [23],
+            "issue_duration"  : 30,
+            "publish_year"    : 2004
+        }
+    },
+    {
+        "model" : "books.Book",
+        "pk"    : 23,
+        "fields":{ 
+            "title"           : "Rich Dad Poor Dad",
+            "description"     : "A nice self help personal development Book",
+            "price"           : 499,
+            "authors"         : [24],
+            "issue_duration"  : 30,
+            "publish_year"    : 2004
+        }
+    },
+    {
+        "model" : "books.Book",
+        "pk"    : 24,
+        "fields":{ 
+            "title"           : "Think And Grow Rich",
+            "description"     : "A nice self help personal development Book",
+            "price"           : 499,
+            "authors"         : [25],
+            "issue_duration"  : 30,
+            "publish_year"    : 2004
+        }
+    },
+    {
+        "model" : "books.Book",
+        "pk"    : 25,
+        "fields":{ 
+            "title"           : "The 4-Hour Workweek",
+            "description"     : "A nice self help personal development Book",
+            "price"           : 499,
+            "authors"         : [26],
+            "issue_duration"  : 30,
+            "publish_year"    : 2004
+        }
+    },
+    {
+        "model" : "books.Book",
+        "pk"    : 26,
+        "fields":{ 
+            "title"           : "Outliers",
+            "description"     : "A nice self help personal development Book",
+            "price"           : 499,
+            "authors"         : [27],
+            "issue_duration"  : 30,
+            "publish_year"    : 2004
+        }
+    },
+    {
+        "model" : "books.Book",
+        "pk"    : 27,
+        "fields":{ 
+            "title"           : "The Power Of Positive Thinking",
+            "description"     : "A nice self help personal development Book",
+            "price"           : 499,
+            "authors"         : [28],
+            "issue_duration"  : 30,
+            "publish_year"    : 2004
+        }
+    },
+    {
+        "model" : "books.Book",
+        "pk"    : 28,
+        "fields":{ 
+            "title"           : "The Secret",
+            "description"     : "A nice self help personal development Book",
+            "price"           : 499,
+            "authors"         : [29],
+            "issue_duration"  : 30,
+            "publish_year"    : 2004
+        }
+    },
+    {
+        "model" : "books.Book",
+        "pk"    : 29,
+        "fields":{ 
+            "title"           : "Meditations",
+            "description"     : "A nice self help personal development Book",
+            "price"           : 499,
+            "authors"         : [30],
+            "issue_duration"  : 30,
+            "publish_year"    : 2004
+        }
+    },
+    {
+        "model" : "books.Book",
+        "pk"    : 30,
+        "fields":{ 
+            "title"           : "The Obstacle Is The Way",
+            "description"     : "A nice self help personal development Book",
+            "price"           : 499,
+            "authors"         : [31],
+            "issue_duration"  : 30,
+            "publish_year"    : 2004
+        }
+    },
+    {
+        "model" : "books.Book",
+        "pk"    : 31,
+        "fields":{ 
+            "title"           : "The Power Of Now",
+            "description"     : "A nice self help personal development Book",
+            "price"           : 499,
+            "authors"         : [32],
+            "issue_duration"  : 30,
+            "publish_year"    : 2004
+        }
+    },
+    {
+        "model" : "books.Book",
+        "pk"    : 32,
+        "fields":{ 
+            "title"           : "The Life-Changing Magic Of Tidying Up",
+            "description"     : "A nice self help personal development Book",
+            "price"           : 499,
+            "authors"         : [33],
+            "issue_duration"  : 30,
+            "publish_year"    : 2004
+        }
+    }
+]
