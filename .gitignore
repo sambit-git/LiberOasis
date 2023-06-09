@@ -152,5 +152,4 @@ cython_debug/
 
 db.sqlite3
 static
-STATIC CDN
-migrations
+STATIC FILES

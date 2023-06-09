@@ -8,6 +8,7 @@
             "price"           : 499,
             "authors"         : [1],
             "issue_duration"  : 30,
+            "book_cover"      : "Book/The_Alchemist.jpg",
             "publish_year"    : 2004
         }
     },
@@ -20,6 +21,7 @@
             "price"           : 499,
             "authors"         : [2],
             "issue_duration"  : 30,
+            "book_cover"      : "Book/Atomic_Habits.jpg",
             "publish_year"    : 2004
         }
     },
@@ -32,6 +34,7 @@
             "price"           : 499,
             "authors"         : [3],
             "issue_duration"  : 30,
+            "book_cover"      : "Book/Thinking_Fast_And_Slow.jpg",
             "publish_year"    : 2004
         }
     },
@@ -44,6 +47,7 @@
             "price"           : 499,
             "authors"         : [4],
             "issue_duration"  : 30,
+            "book_cover"      : "Book/The_Four_Agreements.jpg",
             "publish_year"    : 2004
         }
     },
@@ -56,6 +60,7 @@
             "price"           : 499,
             "authors"         : [5],
             "issue_duration"  : 30,
+            "book_cover"      : "Book/The_7_Habits_Of_Highly_Effective_People.jpg",
             "publish_year"    : 2004
         }
     },
@@ -68,6 +73,7 @@
             "price"           : 499,
             "authors"         : [6],
             "issue_duration"  : 30,
+            "book_cover"      : "Book/Best_Self.jpg",
             "publish_year"    : 2004
         }
     },
@@ -80,6 +86,7 @@
             "price"           : 499,
             "authors"         : [8],
             "issue_duration"  : 30,
+            "book_cover"      : "Book/Girl_Wash_Your_Face.jpg",
             "publish_year"    : 2004
         }
     },
@@ -92,6 +99,7 @@
             "price"           : 499,
             "authors"         : [9],
             "issue_duration"  : 30,
+            "book_cover"      : "Book/You_Are_A_Badass.jpg",
             "publish_year"    : 2004
         }
     },
@@ -104,6 +112,7 @@
             "price"           : 499,
             "authors"         : [10],
             "issue_duration"  : 30,
+            "book_cover"      : "Book/12_Rules_For_Life.jpg",
             "publish_year"    : 2004
         }
     },
@@ -116,6 +125,7 @@
             "price"           : 499,
             "authors"         : [11],
             "issue_duration"  : 30,
+            "book_cover"      : "Book/The_48_Laws_Of_Power.jpg",
             "publish_year"    : 2004
         }
     },
@@ -128,6 +138,7 @@
             "price"           : 499,
             "authors"         : [12, 13],
             "issue_duration"  : 30,
+            "book_cover"      : "Book/The_Courage_To_Be_Disliked.jpg",
             "publish_year"    : 2004
         }
     },
@@ -140,6 +151,7 @@
             "price"           : 499,
             "authors"         : [14],
             "issue_duration"  : 30,
+            "book_cover"      : "Book/Mans_Search_For_Meaning.jpg",
             "publish_year"    : 2004
         }
     },
@@ -152,6 +164,7 @@
             "price"           : 499,
             "authors"         : [15],
             "issue_duration"  : 30,
+            "book_cover"      : "Book/How_To_Stop_Worrying_And_Start_Living.jpg",
             "publish_year"    : 2004
         }
     },
@@ -164,6 +177,7 @@
             "price"           : 499,
             "authors"         : [16],
             "issue_duration"  : 30,
+            "book_cover"      : "Book/Daring_Greatly.jpg",
             "publish_year"    : 2004
         }
     },
@@ -176,6 +190,7 @@
             "price"           : 499,
             "authors"         : [17],
             "issue_duration"  : 30,
+            "book_cover"      : "Book/Big_Magic.jpg",
             "publish_year"    : 2004
         }
     },
@@ -188,6 +203,7 @@
             "price"           : 499,
             "authors"         : [18],
             "issue_duration"  : 30,
+            "book_cover"      : "Book/Quiet.jpg",
             "publish_year"    : 2004
         }
     },
@@ -200,6 +216,7 @@
             "price"           : 499,
             "authors"         : [19],
             "issue_duration"  : 30,
+            "book_cover"      : "Book/The_Magic_Of_Thinking_Big.jpg",
             "publish_year"    : 2004
         }
     },
@@ -212,6 +229,7 @@
             "price"           : 499,
             "authors"         : [15],
             "issue_duration"  : 30,
+            "book_cover"      : "Book/How_To_Win_Friends_And_Influence_People.jpg",
             "publish_year"    : 2004
         }
     },
@@ -224,6 +242,7 @@
             "price"           : 499,
             "authors"         : [20],
             "issue_duration"  : 30,
+            "book_cover"      : "Book/The_5_Love_Languages.jpg",
             "publish_year"    : 2004
         }
     },
@@ -236,6 +255,7 @@
             "price"           : 499,
             "authors"         : [21],
             "issue_duration"  : 30,
+            "book_cover"      : "Book/Deep_Work.jpg",
             "publish_year"    : 2004
         }
     },
@@ -248,6 +268,7 @@
             "price"           : 499,
             "authors"         : [22],
             "issue_duration"  : 30,
+            "book_cover"      : "Book/Getting_Things_Done.jpg",
             "publish_year"    : 2004
         }
     },
@@ -260,6 +281,7 @@
             "price"           : 499,
             "authors"         : [23],
             "issue_duration"  : 30,
+            "book_cover"      : "Book/Who_Moved_My_Cheese.jpg",
             "publish_year"    : 2004
         }
     },
@@ -272,6 +294,7 @@
             "price"           : 499,
             "authors"         : [24],
             "issue_duration"  : 30,
+            "book_cover"      : "Book/Rich_Dad_Poor_Dad.jpg",
             "publish_year"    : 2004
         }
     },
@@ -284,6 +307,7 @@
             "price"           : 499,
             "authors"         : [25],
             "issue_duration"  : 30,
+            "book_cover"      : "Book/Think_And_Grow_Rich.jpg",
             "publish_year"    : 2004
         }
     },
@@ -296,6 +320,7 @@
             "price"           : 499,
             "authors"         : [26],
             "issue_duration"  : 30,
+            "book_cover"      : "Book/The_4-Hour_Workweek.jpg",
             "publish_year"    : 2004
         }
     },
@@ -308,6 +333,7 @@
             "price"           : 499,
             "authors"         : [27],
             "issue_duration"  : 30,
+            "book_cover"      : "Book/Outliers.jpg",
             "publish_year"    : 2004
         }
     },
@@ -320,6 +346,7 @@
             "price"           : 499,
             "authors"         : [28],
             "issue_duration"  : 30,
+            "book_cover"      : "Book/The_Power_Of_Positive_Thinking.jpg",
             "publish_year"    : 2004
         }
     },
@@ -332,6 +359,7 @@
             "price"           : 499,
             "authors"         : [29],
             "issue_duration"  : 30,
+            "book_cover"      : "Book/The_Secret.jpg",
             "publish_year"    : 2004
         }
     },
@@ -344,6 +372,7 @@
             "price"           : 499,
             "authors"         : [30],
             "issue_duration"  : 30,
+            "book_cover"      : "Book/Meditations.jpg",
             "publish_year"    : 2004
         }
     },
@@ -356,6 +385,7 @@
             "price"           : 499,
             "authors"         : [31],
             "issue_duration"  : 30,
+            "book_cover"      : "Book/The_Obstacle_Is_The_Way.jpg",
             "publish_year"    : 2004
         }
     },
@@ -368,6 +398,7 @@
             "price"           : 499,
             "authors"         : [32],
             "issue_duration"  : 30,
+            "book_cover"      : "Book/The_Power_Of_Now.jpg",
             "publish_year"    : 2004
         }
     },
@@ -380,6 +411,7 @@
             "price"           : 499,
             "authors"         : [33],
             "issue_duration"  : 30,
+            "book_cover"      : "Book/The_Life-Changing_Magic_Of_Tidying_Up.jpg",
             "publish_year"    : 2004
         }
     }
